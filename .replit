@@ -1,2 +1,2 @@
 language = "cpp"
-run = "clang++-7 -o sample BasicFunctionTemplate.cpp; ./sample"
+run = "clang++-11 -o sample BasicFunctionTemplate.cpp; ./sample"
